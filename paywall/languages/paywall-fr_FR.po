@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Paywall Sanal Pos\n"
+"POT-Creation-Date: 2023-01-26 00:27+0300\n"
+"PO-Revision-Date: 2023-01-26 00:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: index.php:49
+msgid "İşletmeler için en iyi ödeme çözümü"
+msgstr "La meilleure solution de paiement pour les entreprises"
+
+#: index.php:76
+msgid "Başlık"
+msgstr "Titre"
+
+#: index.php:78
+msgid "Sitenizde müşterilerinizin göreceği ödeme yöntemi başlığı"
+msgstr "L’en-tête du mode de paiement que vos clients verront sur votre site"
+
+#: index.php:83
+msgid "Açıklama"
+msgstr "Explication"
+
+#: index.php:85
+msgid "Sitenizde müşterilerinizin göreceği ödeme yöntemi açıklaması"
+msgstr "Description du mode de paiement que vos clients verront sur votre site"
+
+#: index.php:89
+msgid "Api Türü"
+msgstr "Type d’API"
+
+#: index.php:93
+msgid "Gerçek Ortam"
+msgstr "Environnement réel"
+
+#: index.php:94
+msgid "Test Ortamı"
+msgstr "Environnement de test"
+
+#: index.php:98
+msgid "Public Client"
+msgstr "Public Client"
+
+#: index.php:103
+msgid "Public Key"
+msgstr "Clé publique"
+
+#: index.php:107
+msgid "Private Client"
+msgstr "Client privé"
+
+#: index.php:111
+msgid "Private Key"
+msgstr "Clé privée"
+
+#: index.php:227
+msgid "Canlı ortam aktif değildir."
+msgstr "L’environnement actif n’est pas actif."
+
+#: index.php:228
+msgid "Canlı ortam aktif değildir"
+msgstr "L’environnement actif n’est pas actif"
+
+#: index.php:262
+msgid "Geçersiz istek"
+msgstr "Demande non valide"
+
+#: view/payment-form.php:9
+msgid "Kartın üzerinde yazan isim"
+msgstr "Le nom sur la carte"
+
+#: view/payment-form.php:13
+msgid "Kredi Kart Numarasi"
+msgstr "Numéro de carte de crédit"
+
+#: view/payment-form.php:17
+msgid "Son Kullanma Tarihi"
+msgstr "Échéance"
+
+#: view/payment-form.php:20
+msgid "Ocak"
+msgstr "Janvier"
+
+#: view/payment-form.php:21
+msgid "Şubat"
+msgstr "Février"
+
+#: view/payment-form.php:22
+msgid "Mart"
+msgstr "Mars"
+
+#: view/payment-form.php:23
+msgid "Nisan"
+msgstr "Avril"
+
+#: view/payment-form.php:24
+msgid "Mayıs"
+msgstr "Mai"
+
+#: view/payment-form.php:25
+msgid "Haziran"
+msgstr "Juin"
+
+#: view/payment-form.php:26
+msgid "Temmuz"
+msgstr "Juillet"
+
+#: view/payment-form.php:27
+msgid "Ağustos"
+msgstr "Août"
+
+#: view/payment-form.php:28
+msgid "Eylül"
+msgstr "Septembre"
+
+#: view/payment-form.php:29
+msgid "Ekim"
+msgstr "Octobre"
+
+#: view/payment-form.php:30
+msgid "Kasım"
+msgstr "Novembre"
+
+#: view/payment-form.php:31
+msgid "Aralık"
+msgstr "Décembre"
+
+#: view/payment-form.php:44
+msgid "Güvenlik Kodu"
+msgstr "Code de sécurité"
+
+#: view/payment-form.php:48
+msgid "Taksit Sayısı"
+msgstr "Nombre de versements"
+
+#. Plugin Name of the plugin/theme
+msgid "Paywall Sanal Pos"
+msgstr "Paywall Virtual Pos"
+
+#. Description of the plugin/theme
+msgid "Paywall sanal pos eklentisi"
+msgstr "Plugin de point de vente virtuel Paywall"
+
+#. Author of the plugin/theme
+msgid "Ravensoft"
+msgstr "Ravensoft"
